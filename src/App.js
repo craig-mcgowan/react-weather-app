@@ -1,6 +1,7 @@
 import React from "react";
 import "./styles.css";
-
+import weatherData from "./weatherData";
+console.log(weatherData)
 export default function App() {
   return (
     <div className="App">
